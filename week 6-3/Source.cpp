@@ -21,4 +21,5 @@ int main()
 	else {
 		printf("width and height must be greater than 0");
 	}
+	return 0;
 }
